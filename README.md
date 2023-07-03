@@ -1,6 +1,6 @@
 <div align="center"><h1><img src="https://avatars.githubusercontent.com/u/74681168?v=4" height="auto" width="35" style="border-radius:50%"></img>&nbspBackup folder for other repositories</h1></div>
 
-$${\color{red}Source \space specified \space in \space original \space repository}$$
+$${\color{red}Sources \space specified \space in \space original \space repositories}$$
 ## Repositories:
 * [CalloutMaps](https://github.com/LockheedMartin-lab/CalloutMaps)
   - Photoshop files of edited images (.psd)
@@ -14,7 +14,7 @@ Just use it with common sence, if you use it write down where you got it from (t
     <code "color:white;background-color:black">
         ©️ LockheedMartn-lab
         GNU, GPLV3 License
-        Repository: https://github.com/LockheedMartin-lab/Prog1/
+        Repository: https://github.com/LockheedMartin-lab/backup-files/
     </code>
 </pre>
 
