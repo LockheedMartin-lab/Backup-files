@@ -2,8 +2,8 @@
 
 $${\color{red}Sources \space specified \space in \space original \space repositories}$$
 ## Repositories:
-* [CalloutMaps](https://github.com/LockheedMartin-lab/CalloutMaps)
-  - Photoshop files of edited images (.psd)
+* [CalloutMaps](https://github.com/LockheedMartin-lab/CalloutMaps)  
+Photoshop files of edited images (.psd)
 * [Prog1](https://github.com/LockheedMartin-lab/Prog1/)
 * [Yag](https://github.com/LockheedMartin-lab/Yag)
 
