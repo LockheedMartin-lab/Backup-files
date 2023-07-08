@@ -12,21 +12,23 @@ Photoshop files of edited images (.psd)
 ## Sources:  
 ### [ADD_DC_Servers:](https://github.com/LockheedMartin-lab/backup-files/tree/main/ADD_DC_Servers)
 
-<ins>Area_51:</ins>
-    <details>
-    <summary>General emoji's</summary>
 
-    - [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
-    - [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
-    - [Administration icon](https://www.veryicon.com/icons/commerce-shopping/wangdianbao-icon-monochrome/administrators-6.html)  
-    - [Rainbow line](https://giphy.com/stickers/moderncann-chicago-moca-moderncannabis-TIj8cbzWYKnE9ul3ab)  
-    - [Hangman emoji](https://www.seekpng.com/ipng/u2q8a9a9r5t4t4i1_photo-discord-emojis/)  
-    - [Blob gif](https://tenor.com/view/blob-dancing-gif-21353115)  
-    - [Blob in trash gif](https://tenor.com/view/party-blob-trash-gif-26373191)  
-    - [Dancing rainbow girl gif](https://media.discordapp.net/attachments/578976698931085333/810102503072202752/676453069155860510.gif)  
-    - [Dancing Michael gif](https://media.discordapp.net/attachments/740273236243382312/810092528904175626/1381a7230c9b868d1470279b65b839d7a5d23f1er5-232-320_00.gif)  
-    - [Stick figure on drums gif](https://tenor.com/view/ba-dum-tsss-drum-band-gif-7320811)  
-  </details>
+
+<ins>Area_51:</ins>
+<details>
+  <summary>General emoji's</summary>
+  
+  - [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
+  - [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
+  - [Administration icon](https://www.veryicon.com/icons/commerce-shopping/wangdianbao-icon-monochrome/administrators-6.html)  
+  - [Rainbow line](https://giphy.com/stickers/moderncann-chicago-moca-moderncannabis-TIj8cbzWYKnE9ul3ab)  
+  - [Hangman emoji](https://www.seekpng.com/ipng/u2q8a9a9r5t4t4i1_photo-discord-emojis/)  
+  - [Blob gif](https://tenor.com/view/blob-dancing-gif-21353115)  
+  - [Blob in trash gif](https://tenor.com/view/party-blob-trash-gif-26373191)  
+  - [Dancing rainbow girl gif](https://media.discordapp.net/attachments/578976698931085333/810102503072202752/676453069155860510.gif)  
+  - [Dancing Michael gif](https://media.discordapp.net/attachments/740273236243382312/810092528904175626/1381a7230c9b868d1470279b65b839d7a5d23f1er5-232-320_00.gif)  
+  - [Stick figure on drums gif](https://tenor.com/view/ba-dum-tsss-drum-band-gif-7320811)  
+</details>
 
 
 
