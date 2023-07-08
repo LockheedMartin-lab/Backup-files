@@ -12,6 +12,43 @@ Photoshop files of edited images (.psd)
 ## Sources:  
 
 <details>
+  <summary><h3>ADD_CalloutMaps: <a href="https://github.com/LockheedMartin-lab/backup-files/tree/main/ADD_CalloutMaps">(show folder)</a></h3></summary>
+
+<details>
+  <summary><h4>2D Maps:</h4></summary>
+  <details>
+  <summary><h5>Images</h5></summary>  
+
+  - [Original HTML file](https://dbdl.floliroy.fr/maps/)
+  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
+  </details>
+  <details>
+  <summary><h5>Website</h5></summary>
+
+  - [Original HTML file](https://dbdl.floliroy.fr/maps/)
+  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
+  </details>
+</details><hr>
+<details>
+  <summary><h4>3D Maps:</h4></summary>
+  <details>
+  <summary><h5>Images</h5></summary>  
+
+  - [Most other 3D images](https://steamcommunity.com/sharedfiles/filedetails/?id=2899093390/)  
+  - [RPD Map](https://deadbydaylight.fandom.com/wiki/Raccoon_City)   
+  </details>
+  <details>
+  <summary><h5>Website</h5></summary>
+
+  - [Original HTML file](https://dbdl.floliroy.fr/maps/)
+  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
+  </details>
+</details><hr>
+</details>
+
+
+
+<details>
   <summary><h3>ADD_DC_Servers: <a href="https://github.com/LockheedMartin-lab/backup-files/tree/main/ADD_DC_Servers">(show folder)</a></h3></summary>
 
 <details>
