@@ -11,7 +11,8 @@ Photoshop files of edited images (.psd)
 ### [ADD_DC_Servers (link to sub folder): ](https://github.com/LockheedMartin-lab/backup-files/tree/main/ADD_DC_Servers) 
 
 Area_51:  
-- [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)  
+- [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
+- [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
 - [Administration icon](https://www.veryicon.com/icons/commerce-shopping/wangdianbao-icon-monochrome/administrators-6.html)  
 - [Rainbow line](https://giphy.com/stickers/moderncann-chicago-moca-moderncannabis-TIj8cbzWYKnE9ul3ab)  
 - [Hangman emoji](https://www.seekpng.com/ipng/u2q8a9a9r5t4t4i1_photo-discord-emojis/)  
@@ -62,6 +63,16 @@ Area_51:
     - [Sea of thieves](https://www.pinterest.com/pin/641974121858079110/)
     - [Skribble io](https://www.exophase.com/game/scribble-skribbl-io-guess-it-android/achievements/)
     - [Skyrim](https://inkbox.com/products/akatosh)
+    - [Star Wars Battlefront](https://www.cyonnelly.site/ProductDetail.aspx?iid=179495287&pr=42.88)
+    - [Star Wars The Old Republic](https://twitter.com/SWTOR/status/669968908414263300)
+    - [The Forest](https://www.reddit.com/r/Trophies/comments/h8veac/the_forest_the_forest/)
+    - [Raft](https://www.redbubble.com/de/i/poster/Flo%C3%9Flogo-mit-Hai-5-von-JuliaTheThird/114379647.LVTDI)
+    - [Valheim](https://steamcommunity.com/sharedfiles/filedetails/?l=bulgarian&id=2382282960)
+    - [Valorant](https://www.vecteezy.com/vector-art/19763094-valorant-icon-logo-vector)
+    - [Warframe](https://www.pinterest.com/pin/484840716114164864/)
+    - [World of Warship](https://www.pngitem.com/middle/himioxx_transparent-world-of-warships-logo-png-world-of/)
+    - [World of Warcraft](https://www.wikidata.org/wiki/Q131007)
+    - [World War Z](https://www.pinclipart.com/maxpin/oxxwTT/)  
 
 Test_Server:  
 - [Server icon](https://www.nicepng.com/ourpic/u2y3q8q8o0w7e6y3_little-bot-bot-robot-illustrator-robot-antenna-logo/)
