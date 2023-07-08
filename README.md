@@ -13,7 +13,7 @@ Photoshop files of edited images (.psd)
 ### Area_51:  
 
   <details>
-  <summary><b>General emoji's</b></summary>
+  <summary>General emoji's</summary>
 
   - [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
   - [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
@@ -30,7 +30,7 @@ Photoshop files of edited images (.psd)
 
 
 <details>
-  <summary><b>Game icons</b></summary>
+  <summary>Game icons</summary>
 
   - [Amoung us](https://scalacube.com/store/minecraft/among-sus)  
   - [Anno](https://steamcommunity.com/sharedfiles/filedetails/?id=2934852600)  
@@ -88,7 +88,7 @@ Photoshop files of edited images (.psd)
 ### Test_Server:  
 
   <details>
-  <summary><b>General emoji's</b></summary>
+  <summary>General emoji's</summary>
       
   - [Server icon](https://www.nicepng.com/ourpic/u2y3q8q8o0w7e6y3_little-bot-bot-robot-illustrator-robot-antenna-logo/)
 
