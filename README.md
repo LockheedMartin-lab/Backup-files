@@ -10,15 +10,14 @@ Photoshop files of edited images (.psd)
 
 
 ## Sources:  
-### [ADD_DC_Servers:](https://github.com/LockheedMartin-lab/backup-files/tree/main/ADD_DC_Servers)
-
-
-
 
 <details>
-  <summary>Area_51:</summary>
+  <summary><h3>ADD_DC_Servers:</h3></summary>
+
+<details>
+  <summary><h4>Area_51:</h4></summary>
   <details>
-  <summary>General emoji's</summary>  
+  <summary><h5>General emoji's</h5></summary>  
 
   - [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
   - [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
@@ -32,7 +31,7 @@ Photoshop files of edited images (.psd)
   - [Stick figure on drums gif](https://tenor.com/view/ba-dum-tsss-drum-band-gif-7320811)  
   </details>
   <details>
-  <summary>Game icons</summary>
+  <summary><h5>Game icons</h5></summary>
 
   - [Amoung us](https://scalacube.com/store/minecraft/among-sus)  
   - [Anno](https://steamcommunity.com/sharedfiles/filedetails/?id=2934852600)  
@@ -86,15 +85,15 @@ Photoshop files of edited images (.psd)
   - [World of Warcraft](https://www.wikidata.org/wiki/Q131007)
   - [World War Z](https://www.pinclipart.com/maxpin/oxxwTT/)  
   </details>
-</details>
-<br>
+</details><hr>
 <details>
-  <summary>Test Server:</summary>
+  <summary><h4>Test Server:</h4></summary>
   <details>
-  <summary>General emoji's</summary>  
+  <summary><h5>General emoji's</h5></summary>  
 
   - [Server icon](https://www.nicepng.com/ourpic/u2y3q8q8o0w7e6y3_little-bot-bot-robot-illustrator-robot-antenna-logo/)
 </details>
+</details><hr>
 </details>
 
 
