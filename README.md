@@ -1,3 +1,6 @@
+
+
+
 <div align="center"><h1><img src="https://avatars.githubusercontent.com/u/74681168?v=4" height="auto" width="35" style="border-radius:50%"></img>&nbspBackup folder for other repositories</h1></div>
 
 $${\color{red}Sources \space specified \space in \space original \space repositories \space or \space under \space the \space caption \space sources \space below}$$
@@ -50,6 +53,21 @@ Photoshop files of edited images (.psd)
 
 <details>
   <summary><h4>Area_51:</h4></summary>
+  <details>
+  <summary><h5>Server template</h5></summary>
+
+  [Discord template link](https://discord.new/FMekSHuX9Vrd)  
+  Original setup time took about 400+ hours, so please tag me somewhere if you use it :) (I'm the original creator of the server)
+  Further setup steps:
+  You have to add the Discord bots ['Yagpdb'](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=1516122532343), ['Ticket Tool'](https://discord.com/api/oauth2/authorize?client_id=557628352828014614&permissions=2416045072&scope=applications.commands+bot) , ['ProBot'](https://probot.io/invite) and optionally ['InviteLogger'](https://discord.com/api/oauth2/authorize?client_id=499595256270946326&permissions=1342500081&scope=applications.commands%20bot) and ['Carl-bot'](https://discord.com/oauth2/authorize?&client_id=235148962103951360&scope=applications.commands+bot&permissions=2088234230).  
+  - Yagpdb is one of the best bots you'll find, you can programm it to do almost everything. More on that in my [yag repository](https://github.com/LockheedMartin-lab/Yag).  
+  - Ticket tool for the ticket system. 
+  - ProBot for the leveling system (you gain a random XP amount with every 7 minutes you spend in a voice channel or text channel texting) and for the welcome messages (it sends a welcome message as an image with the username, user avatar, server name).  
+  - InviteLogger logs the invites of your members and is good for tracking users who make problems on your server and their network or might also just be used with a reward system for inviting users.  
+  - Carl-bot is a multi purpose bot, it's not necosarry to add this bot either. It allows you to use it as a automoderator, is good for reacion roles (you react to a message and get a role). 
+
+
+  </details>
   <details>
   <summary><h5>General emoji's</h5></summary>  
 
