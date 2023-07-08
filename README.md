@@ -20,13 +20,11 @@ Photoshop files of edited images (.psd)
   <summary><h5>Images</h5></summary>  
 
   - [Original HTML file](https://dbdl.floliroy.fr/maps/)
-  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
   </details>
   <details>
   <summary><h5>Website</h5></summary>
 
   - [Original HTML file](https://dbdl.floliroy.fr/maps/)
-  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
   </details>
 </details><hr>
 <details>
@@ -41,7 +39,6 @@ Photoshop files of edited images (.psd)
   <summary><h5>Website</h5></summary>
 
   - [Original HTML file](https://dbdl.floliroy.fr/maps/)
-  - [Found through a Discord server](https://discord.gg/VHZk33Z2WN/)
   </details>
 </details><hr>
 </details>
