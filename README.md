@@ -14,10 +14,12 @@ Photoshop files of edited images (.psd)
 
 
 
-<ins>Area_51:</ins>
+
 <details>
-  <summary>General emoji's</summary>
-  
+  <summary>Area_51:</summary>
+  <details>
+  <summary>General emoji's</summary>  
+
   - [Server icon](https://www.af.mil/News/Article-Display/Article/1960084/af-week-in-photos/#gallery-1)
   - [USAF icon](https://www.airforcetimes.com/education-transition/jobs/2014/11/19/air-force-begins-notifying-rifed-officers/)  
   - [Administration icon](https://www.veryicon.com/icons/commerce-shopping/wangdianbao-icon-monochrome/administrators-6.html)  
@@ -28,11 +30,8 @@ Photoshop files of edited images (.psd)
   - [Dancing rainbow girl gif](https://media.discordapp.net/attachments/578976698931085333/810102503072202752/676453069155860510.gif)  
   - [Dancing Michael gif](https://media.discordapp.net/attachments/740273236243382312/810092528904175626/1381a7230c9b868d1470279b65b839d7a5d23f1er5-232-320_00.gif)  
   - [Stick figure on drums gif](https://tenor.com/view/ba-dum-tsss-drum-band-gif-7320811)  
-</details>
-
-
-
-<details>
+  </details>
+  <details>
   <summary>Game icons</summary>
 
   - [Amoung us](https://scalacube.com/store/minecraft/among-sus)  
@@ -86,15 +85,16 @@ Photoshop files of edited images (.psd)
   - [World of Warship](https://www.pngitem.com/middle/himioxx_transparent-world-of-warships-logo-png-world-of/)
   - [World of Warcraft](https://www.wikidata.org/wiki/Q131007)
   - [World War Z](https://www.pinclipart.com/maxpin/oxxwTT/)  
+  </details>
 </details>
-
-<ins>Test Server:</ins>
-
+<br>
+<details>
+  <summary>Test Server:</summary>
   <details>
-  <summary>General emoji's</summary>
-      
-  - [Server icon](https://www.nicepng.com/ourpic/u2y3q8q8o0w7e6y3_little-bot-bot-robot-illustrator-robot-antenna-logo/)
+  <summary>General emoji's</summary>  
 
+  - [Server icon](https://www.nicepng.com/ourpic/u2y3q8q8o0w7e6y3_little-bot-bot-robot-illustrator-robot-antenna-logo/)
+</details>
 </details>
 
 
